@@ -72,6 +72,7 @@
     </control>
     <control controlID="80" controlTypeID="com.balsamiq.mockups::Button" x="29" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
@@ -97,6 +98,7 @@
     </control>
     <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="175" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
@@ -128,6 +130,7 @@
     </control>
     <control controlID="91" controlTypeID="com.balsamiq.mockups::Button" x="325" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
@@ -159,6 +162,7 @@
     </control>
     <control controlID="96" controlTypeID="com.balsamiq.mockups::Button" x="468" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
@@ -184,6 +188,7 @@
     </control>
     <control controlID="101" controlTypeID="com.balsamiq.mockups::Button" x="613" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
@@ -215,6 +220,7 @@
     </control>
     <control controlID="106" controlTypeID="com.balsamiq.mockups::Button" x="756" y="355" w="114" h="27" measuredW="68" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>40463</color>
         <text>contact</text>
       </controlProperties>
     </control>
